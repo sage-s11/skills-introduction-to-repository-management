@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sage-s11
+/src/backend/database.py      @sage-s11
+/src/backend/routers/auth.py  @sage-s11
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sage-s11
